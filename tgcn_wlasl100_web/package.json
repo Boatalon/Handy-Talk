@@ -1,0 +1,6 @@
+{
+  "name": "tgcn-wlasl100-web-package",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module"
+}
